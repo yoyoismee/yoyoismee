@@ -1,4 +1,8 @@
-### Hi there 👋
+### yoyoismee
+- Smart contract R&D
+- Data analytic
+- Machine learning
+- Meme
 
 <!--
 **yoyoismee/yoyoismee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
