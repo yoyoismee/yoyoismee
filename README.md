@@ -4,6 +4,10 @@
 - Machine learning
 - Meme
 
+author of HODL my Beer!
+
+<img src="Hodl_profile.jpeg" width="200">
+
 <!--
 **yoyoismee/yoyoismee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
