@@ -6,8 +6,6 @@
 
 author of HODL my Beer!
 
-TW: [@0xyoyoismee](https://twitter.com/0xyoyoismee) 
-
 <img src="Hodl_profile.jpeg" width="200">
 
 <!--
