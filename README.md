@@ -1,5 +1,7 @@
 ### yoyoismee
-- Smart contract R&D
+- Privacy tech
+- AI safety
+- Decentralized infrastructure
 - Data analytic
 - Machine learning
 - Meme
