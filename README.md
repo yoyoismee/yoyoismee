@@ -1,10 +1,12 @@
 ### yoyoismee
+- Machine learning
 - Privacy tech
 - AI safety
-- Decentralized infrastructure
 - Data analytic
-- Machine learning
 - Meme
+
+[more works](https://www.tetrationlab.com/)
+
 
 author of HODL my Beer!
 
